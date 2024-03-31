@@ -1,1 +1,1 @@
-learning how to interact python and postgresql
+learning how to interact with python and postgresql
